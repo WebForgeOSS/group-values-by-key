@@ -45,4 +45,4 @@ groupValuesByKey({ a: 2 }, { a: 3, b: 1 }); //=> { a: [ 2, 3 ], b: [ 1 ] }
 
 ## License
 
-MIT © [saxjst](https://saxjst.com)
+MIT © [muceres](https://forgetheweb.eu)
